@@ -2314,6 +2314,11 @@ const targetWords = [
     "artsy",
     "rural",
     "shave",
+    "guyyy",
+    "kunjp",
+    "kavan",
+    "yajan",
+    "kimmy"
   ]
   const dictionary = [
     "aahed",
