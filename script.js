@@ -15288,6 +15288,11 @@ const targetWords = [
     "artsy",
     "rural",
     "shave",
+    "guyyy",
+    "kunjp",
+    "kavan",
+    "yajan",
+    "kimmy"
   ]
   const WORD_LENGTH = 5
   const FLIP_ANIMATION_DURATION = 500
