@@ -109,7 +109,18 @@
   .tiletitletop[data-state="maingreen"] {
     border: none;
     background-color: hsl(115, 29%, 43%);
-  } 
+  }
+
+  .white-line {
+    position: relative;
+    top: -4em;
+    width: 100%;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 0;
+    border-color: white;
+    background-color: white;
+  }
 
   .tile {
     font-size: 2em;
